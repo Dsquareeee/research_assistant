@@ -39,7 +39,7 @@ Built using Streamlit, BERT-based NLP pipelines, and PyMuPDF for accurate PDF ha
 git clone https://github.com/Dsquareeee/research_assistant.git
 
 ## Navigate into the project directory
-cd genai_project
+cd research_assistant
 
 ## Install all dependencies
 pip install -r requirements.txt
