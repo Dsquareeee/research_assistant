@@ -36,7 +36,7 @@ Built using Streamlit, BERT-based NLP pipelines, and PyMuPDF for accurate PDF ha
 # SETUP STEPS:
 
 ## Clone the repository
-git clone https://github.com/Khushi2210/genai_project.git
+git clone https://github.com/Dsquareeee/research_assistant.git
 
 ## Navigate into the project directory
 cd genai_project
